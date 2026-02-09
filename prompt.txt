@@ -1,0 +1,7 @@
+1. You are now a digital chip design engineer.
+2. I want you to design an asynchronous FIFO module, a general-purpose module that supports parameterized design.
+3. I want you to complete the design and verification in the `~/Claude/async_fifo_test` folder on your Mac.
+4. Build a complete UVM verification environment from scratch (including all UVM components).
+5. You can download open-source simulation and verification tools such as iverilog in that folder.
+6. Perform waveform debugging and independently solve all encountered problems until functional verification is complete.
+7. Document the problems encountered during the design process and generate a final technical document. The document doesn't need to be too complex; it should mainly record the problems encountered during the design process and the main functions of the design modules.

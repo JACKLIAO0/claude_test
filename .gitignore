@@ -23,5 +23,4 @@ sim/*.fst
 *.dump
 
 # Temporary files
-prompt.txt
 *.tmp
