@@ -1,10 +1,8 @@
-# Simulation outputs
-sim/*.vcd
-sim/*.vvp
-sim/*.lxt
-sim/*.fst
-*.vcd
-*.vvp
+# Simulation outputs (keeping sim folder in repo)
+# sim/*.vcd
+# sim/*.vvp
+# sim/*.lxt
+# sim/*.fst
 
 # Waveform viewer settings
 *.gtkw
