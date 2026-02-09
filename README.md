@@ -1,5 +1,10 @@
 # Asynchronous FIFO Design and Verification
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Verilog](https://img.shields.io/badge/Language-Verilog-blue.svg)](https://en.wikipedia.org/wiki/Verilog)
+[![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)]()
+[![Documentation](https://img.shields.io/badge/Docs-Complete-blue.svg)]()
+
 This project implements a parameterized asynchronous FIFO (First-In-First-Out) buffer for safe clock domain crossing (CDC) in digital designs.
 
 ## Features
