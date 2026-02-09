@@ -124,7 +124,7 @@ Claude 生成了完整的双语技术文档：
 |------|------|------------------|
 | Homebrew 安装失败 | 网络限制 | 切换为 `--force-bottle` 安装预编译包 |
 | 复杂 testbench 221 个数据错误 | 并发读写未考虑 CDC 同步延迟 | 重新设计分阶段验证策略 |
-| HTTPS 推送 GitHub 失败 | 公司网络封锁 443 端口 | 配置 SSH over 443 (ssh.github.com) |
+| HTTPS 推送 GitHub 失败 | xxxx封锁 443 端口 | 配置 SSH over 443 (ssh.github.com) |
 | SSH 22 端口超时 | 同上 | 同上 |
 | 仓库 not found | 用户未创建远程仓库 | 提示用户创建后重试 |
 | 文件被 .gitignore 忽略 | 默认规则排除了 prompt.txt 和 sim/ | 修改 .gitignore 规则 |
