@@ -1,0 +1,27 @@
+# Simulation outputs
+sim/*.vcd
+sim/*.vvp
+sim/*.lxt
+sim/*.fst
+*.vcd
+*.vvp
+
+# Waveform viewer settings
+*.gtkw
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Log files
+*.log
+
+# Compilation artifacts
+*.out
+*.dump
+
+# Temporary files
+prompt.txt
+*.tmp
