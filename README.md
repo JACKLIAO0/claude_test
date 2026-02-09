@@ -112,7 +112,6 @@ Claude 生成了完整的双语技术文档：
 |---------|--------------|
 | "帮我把这个项目开源到我的 GitHub 个人账户下" | 配置 Git 仓库、生成 SSH 密钥（ed25519）、配置 `~/.ssh/config`、添加 MIT 开源许可 |
 | "帮我配置SSH密钥" | 生成密钥对，指导我添加到 GitHub |
-| 遇到公司网络封锁 GitHub | Claude 自动尝试 HTTPS → SSH 22端口 → SSH 443端口，最终通过 `ssh.github.com:443` 解决 |
 | "仓库名为 claude_test" | 立即更新 remote URL |
 | "把 prompt.txt 也推送上 GitHub" | 修改 `.gitignore`、`git add -f`、提交并推送 |
 | "sim 文件夹也上传 GitHub 仓库" | 修改 `.gitignore` 中的 sim 规则、添加仿真输出文件、提交并推送 |
